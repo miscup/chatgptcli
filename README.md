@@ -11,8 +11,7 @@ pip install chatgptcli --upgrade
 
 ## Usage
 ```python
-from chatgptcli import Chat
+from chatgptcli import ChatGPT
 
-chat = Chat(email="email", password="password")
-chat.start()
+ChatGPT(email="", password="").chat()
 ```
