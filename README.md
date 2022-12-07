@@ -1,6 +1,8 @@
 # chatgptcli
 The command line wrapper for ChatGPT
 
+[ChatGPT-PyPi](https://pypi.org/project/chatgptcli/)
+
 
 ## Install
 ```
