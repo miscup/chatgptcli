@@ -18,6 +18,8 @@ ChatGPT(email="email", password="password").chat()
 
 ## Ask a Question
 ```python
+from chatgptcli import ChatGPT
+
 chatGPT = ChatGPT(email="email", password="password")
 print(chatGPT.ask("Write a rap song"))
 ```
